@@ -1,0 +1,16 @@
+/* Definição do estilo geral do corpo da página */
+body {
+    font-family: Arial, sans-serif; /* Define a fonte do texto */
+    background-color: #f0f0f0; /* Define a cor de fundo da página */
+    margin: 0; /* Remove a margem padrão do corpo */
+    padding: 0; /* Remove o padding padrão do corpo */
+}
+/* Estilização do título principal */
+h1 {
+    color: #333; /* Define a cor do texto do título */
+}
+/* Estilização dos parágrafos */
+p {
+    font-size: 16px; /* Define o tamanho da fonte dos parágrafos */
+    color: #666; /* Define a cor do texto dos parágrafos */
+}
